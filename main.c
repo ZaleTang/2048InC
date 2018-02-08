@@ -12,10 +12,7 @@ int main()
                  0,0,0,0,
                  0,0,0,0};
 
-    i=0;j=0;
-
     printmatrix(a);
-
 
     while((key=getkey())!=27)
     {
